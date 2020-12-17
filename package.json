@@ -4,7 +4,7 @@
   "description": "CodeceptJS website",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "npx vuepress dev docs"
+    "start": "npx vuepress dev docs"
   },
   "keywords": [],
   "author": "",
