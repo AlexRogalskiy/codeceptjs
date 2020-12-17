@@ -1,0 +1,29 @@
+{
+  "name": "codecept-website",
+  "version": "1.0.0",
+  "description": "CodeceptJS website",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "npx vuepress dev docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.0.0",
+    "tailwindcss": "^1.8.10",
+    "vue-carousel": "^0.18.0",
+    "runio.js": "^1.0",
+    "postcss": "^7.0.34",
+    "node-sass": "^4.14.1",
+    "npm": "^6.14.8",
+    "sass-loader": "^10.0.2",
+    "vue-slider-component": "^3.2.5",
+    "vueperslides": "^2.10.8",
+    "vuepress": "^1.5.4",
+    "vuepress-plugin-sitemap": "^2.3.1"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.5.4"
+  }
+}

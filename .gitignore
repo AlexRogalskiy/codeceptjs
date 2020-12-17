@@ -1,0 +1,4 @@
+node_modules
+codeceptjs
+docs/.vuepress/dist/
+.idea/
